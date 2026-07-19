@@ -19,17 +19,16 @@ El sistema permite registrar drones, misiones y zonas, y aplica sobre esos datos
 ## Estructura del proyecto
 
 \`\`\`
-PoliRescue_Proyecto/
-├── main.py                 # Punto de entrada; menú interactivo
-├── drones.py                # Registro y gestión de drones
-├── misiones.py               # Registro y gestión de misiones
-├── zonas.py                  # Grafo de zonas y rutas
-├── cola_misiones.py           # Cola FIFO de misiones pendientes
-├── arbol_bst.py               # Árbol Binario de Búsqueda
-├── ordenamientos.py            # Burbuja, inserción, mergesort, quicksort
-├── busquedas.py                 # Búsqueda lineal y binaria
-├── grafo_algoritmos.py          # BFS y Dijkstra
-└── simulacion.py                 # Simulación completa de rescate
+- `main.py` — Punto de entrada; menú interactivo
+- `drones.py` — Registro y gestión de drones
+- `misiones.py` — Registro y gestión de misiones
+- `zonas.py` — Grafo de zonas y rutas
+- `cola_misiones.py` — Cola FIFO de misiones pendientes
+- `arbol_bst.py` — Árbol Binario de Búsqueda
+- `ordenamientos.py` — Burbuja, inserción, mergesort, quicksort
+- `busquedas.py` — Búsqueda lineal y binaria
+- `grafo_algoritmos.py` — BFS y Dijkstra
+- `simulacion.py` — Simulación completa de rescate
 \`\`\`
 
 ## Requisitos
